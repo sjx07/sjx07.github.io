@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- About
 ====== -->
----
+<!-- --- -->
 
 I am currently a first-year PhD student in Computer Science at the Georgia Institute of Technology, advised by [Prof. Kexin Rong](https://kexinrong.github.io/). Previously, I earned my B.Eng. in Computer Science and Technology from Shanghai Jiao Tong University (SJTU) in 2024, where I had the privilege of working with [Prof. Shixuan Sun](https://shixuansun.github.io/). I am broadly interested in the intersection of databases and machine learning, particularly how large language models can be used for data-centric tasks.
 
