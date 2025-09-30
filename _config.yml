@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "sevis.jpg"
-  name             : "Jixian Su's Homepage" # Your name - This will appear in the author profile and in the page title
+  # name             : "Jixian Su's Homepage" # Your name - This will appear in the author profile and in the page title
   pronouns         : "she/her"  
   bio              : "Ph.D. Student @ Georgia Tech jixiansu(at)gatech(dot)edu" # A short 1-2 sentence bio that appears in the author profile on the sidebar
   location         : "Georgia, U.S." # Your location
