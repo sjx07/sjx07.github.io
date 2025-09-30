@@ -11,3 +11,7 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+gem "commonmarker", ">= 0.23.7", "< 1.1.0"
+gem "jekyll-commonmark", "~> 1.4.0"
+gem "bigdecimal", "~> 3.1.8"
+gem 'eventmachine', '~> 1.2.7'
